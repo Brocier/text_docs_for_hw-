@@ -1,6 +1,6 @@
 What stage are you currently in?
-I believe I'm in Stage 3 currently.  I definitely know enough to be dangerous, but wouldn't trust myself with a real-world project right now.
+    I believe I'm in Stage 3 currently.  I definitely know enough to be dangerous, but wouldn't trust myself with a real-world project right now.
 What stage would you like to be in when you complete this WDI course?
-I think by the end of WDI I should be solidly in the beginning of stage 4. I'm going to be putting my all into these projects and hope that the intensity of the program will translate into real-world applications effectively.
+    I think by the end of WDI I should be solidly in the beginning of stage 4. I'm going to be putting my all into these projects and hope that the intensity of the program will translate into real-world applications effectively.
 What stage would you hope to be in one year after completing this course? Five years?
-In a year I imagine I'll still be in Stage 4 but doing better. I know that in five years of applying myself I'll be a Stage 5 or 6.
+    In a year I imagine I'll still be in Stage 4 but doing better. I know that in five years of applying myself I'll be a Stage 5 or 6.
